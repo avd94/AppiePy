@@ -34,7 +34,7 @@ Usage
     # Or just the path
     product = Product('/producten/product/wi193679/lay-s-paprika')
 
-    pprint(vars(products))
+    print(vars(products))
 
     # {
     #     'brand': "Lay's",
